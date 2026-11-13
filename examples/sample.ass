@@ -1,0 +1,8 @@
+[Script Info]
+Title: Synthetic bilingual example
+ScriptType: v4.00+
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.50,0:00:02.00,Default,,0,0,0,,{\b1}Hello, world!\N你好，世界！
+Dialogue: 0,0:00:02.00,0:00:03.25,Default,,0,0,0,,Plain subtitles, same timing.
